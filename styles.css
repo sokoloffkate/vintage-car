@@ -1,13 +1,42 @@
 h1 {
   text-align: center;
   font-family: cursive;
-}
+  margin-top: 70px;
+  }
 h4 {
   font-family: cursive;
-}
-.styleenquiryform {
+  }
+#enquiryform {
   background-color: lightblue;
+  margin-top: 6px;
+  width: 30%;
+  margin-left: 78px;
+  margin-right: 92px;
+ 
 }
+.contactdate{
+  font-weight: bold;
+}
+
 p > .contactdate {
   font-size: 70%;
 }
+
+.card {
+margin-top: 2%;
+margin-bottom: 3%;
+}
+
+.nav-link:hover { 
+font-weight: bold;
+}
+
+.btn {
+  margin-bottom: 1.5%;
+}
+
+.container{
+  margin-bottom: 2%;
+  
+}
+
